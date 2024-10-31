@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+	int b, h, a;
+	printf("Base: ");
+	
+	return 0;
+}
